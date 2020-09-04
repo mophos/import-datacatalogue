@@ -8,7 +8,7 @@
     "is-date-format": "^0.1.1",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.1.13",
     "node-ssh": "^7.0.0",
     "rm": "^0.1.8",
     "simple-ssh": "^1.0.0",
